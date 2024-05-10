@@ -87,6 +87,7 @@
 
 ## Passo 10:
 > - Coloque sua senha para acessar o computador;
+![alt text](<Imagens/Imagem 19.png>)
 
 > - Clique em 'pular todos' ou 'próximo', para saber todos os serviços oferecidos;
 ![alt text](<Imagens/Imagem 17.png>) 
